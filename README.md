@@ -12,6 +12,8 @@ BATCH DURATION: 4 WEEKS
 
 MENTOR NAME: NEELA SANTHOSH KUMAR
 
+OUTPUT:
+
 i used mostly chat gpt for completing my task.it helps me as i share below-
 1. Idea Generation and Concept Clarity
 One of the most important roles of ChatGPT is in the idea generation phase. Often during internships, students are assigned projects or modules where they must design features, optimize performance, or automate certain tasks. ChatGPT can provide a solid starting point by suggesting unique concepts, approaches, or algorithms that are relevant to the project.

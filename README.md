@@ -12,7 +12,13 @@ BATCH DURATION: 4 WEEKS
 
 MENTOR NAME: NEELA SANTHOSH KUMAR
 
-OUTPUT:
+OUTPUT OF TASKS:![Image](https://github.com/user-attachments/assets/c33025d7-8175-4c3b-8d4b-d8d120f72f63)
+
+![Image](https://github.com/user-attachments/assets/94b469cf-66bc-40aa-b836-838f5b7c9ae7)
+
+![Image](https://github.com/user-attachments/assets/3fac6c60-01d7-4621-bf8f-47edb3c5f645)
+
+![Image](https://github.com/user-attachments/assets/07137f23-de69-4a1b-9be2-4129b5465db2)
 
 i used mostly chat gpt for completing my task.it helps me as i share below-
 1. Idea Generation and Concept Clarity
